@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Compiled output
+/dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# VS Code specific files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
